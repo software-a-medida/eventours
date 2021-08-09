@@ -36,7 +36,7 @@
                         </figure>
                     </div>
                 </div>
-                <p class="text-light">Copyright © 2021 <strong><?php echo Configuration::$web_page; ?></strong> <i data-desktop class="fas fa-heart m-l-5 m-r-5" style="color:#f44336;"></i><br data-mobile-block> {$lang.website} {$lang.design_by} <a href="https://designcompany.com" target="_blank" class="text-light"><strong>Design Company</strong></a> <br data-mobile-block> & {$lang.development_by} <a href="https://codemonkey.com.mx" target="_blank" class="text-light"><strong>Code Monkey</strong></a></p>
+                <p class="text-light">Copyright © 2021 <strong><?php echo Configuration::$web_page; ?></strong> <i data-desktop class="fas fa-heart m-l-5 m-r-5" style="color:#f44336;"></i><br data-mobile-block> {$lang.website} {$lang.design_by} & {$lang.development_by} <a href="https://codemonkey.com.mx" target="_blank" class="text-light"><strong>Code Monkey</strong></a></p>
             </div>
         </footer>
         <div id="wa_flat" class="pos-fixed" style="right:20px;bottom:20px;">
