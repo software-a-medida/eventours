@@ -4,6 +4,36 @@
     <url>
         <loc>https://eventourslgbt.com/</loc>
         <changefreq>yearly</changefreq>
+        <priority>0.00</priority>
+    </url>
+    <url>
+        <loc>https://eventourslgbt.com/nuestro-tour-de-casa</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://eventourslgbt.com/otros-tours</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://eventourslgbt.com/chichen-itza</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://eventourslgbt.com/rio-lagartos</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://eventourslgbt.com/contactanos</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://eventourslgbt.com/terminos-y-condiciones</loc>
+        <changefreq>yearly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>

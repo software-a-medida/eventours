@@ -1,5 +1,4 @@
 <?php
-
 defined('_EXEC') or die;
 
 /**
@@ -9,7 +8,6 @@ defined('_EXEC') or die;
  * @since 1.0.0
  * @version 1.0.0
  */
-
 class Configuration
 {
 	/**
@@ -290,26 +288,31 @@ class Configuration
 	public static $vars = [
 		'contact' => [
 			'email' => 'reservaciones@eventourslgbt.com',
-			'phone' => '+52 (998) 495 67 89'
+			'phone' => '+52 (998) 495 79 08'
 		],
 		'rrss' => [
-			'whatsapp' => [
-				'url' => 'https://api.whatsapp.com/send?phone=+529984956789',
-				'user' => '+52 (998) 495 67 89'
-			],
 			'facebook' => [
-				'url' => 'https://facebook.com/EventoursLGBT2021',
-				'user' => '@EventoursLGBT2021'
+				'url' => 'https://facebook.com/tuamigodeyucatan',
+				'user' => '@tuamigodeyucatan'
 			],
 			'instagram' => [
-				'url' => 'https://instagram.com/eventourslgbt',
-				'user' => '@eventourslgbt'
+				'url' => 'https://instagram.com/tuamigodeyucatan',
+				'user' => '@tuamigodeyucatan'
 			]
 		],
-		'address' => 'Cancún, Quintana roo, México.',
-		'map' => [
-			'lat' => '',
-			'lng' => ''
+		'sat' => [
+			'social_reason' => 'Gersón Aarón Gómez Macías',
+			'rfc' => 'GOMG920801733',
+			'regime' => 'Persona física con actividad empresarial y profesional'
+		],
+		'sectur' => [
+			'rnt' => '04230050980',
+			'control' => '',
+			'procedure' => ''
+		],
+		'bank' => [
+			'name' => 'Banco Azteca',
+			'clave' => '127691013750798718'
 		]
 	];
 }
